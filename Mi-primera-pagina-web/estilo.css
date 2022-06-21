@@ -1,0 +1,48 @@
+*{
+    padding: 100;
+    margin: 100;
+}
+body{
+    background: white;
+    font-family: Times, New Roman Optima, Didot;
+    text-align: 20%;
+
+}
+#container{
+    border: auto;
+}
+header{
+    height: 50px;
+    text-align: center;
+}
+
+#img{
+    float: left;
+    margin: auto;
+}
+
+#content{
+    font-size: 20px;
+    float: right;
+    width: 75%;
+    padding: 10px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+aside{
+    float: left;
+    width: cal(25% - 10px);
+    padding: 5px;
+}
+
+article{
+    margin-top: 5px;
+    margin-bottom: 7cm;  
+}
+
+footer{
+    text-align: center;
+}
